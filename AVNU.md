@@ -1,5 +1,3 @@
-layout: page
-title: "AVNU: Where Music Meets"
 permalink: /AVNU
 
 # AVNU: Where Music Meets (2024)
