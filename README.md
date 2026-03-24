@@ -28,7 +28,7 @@ Platforms: `Windows` `PlayStation` `Xbox` `Switch` `Android`
 
 ---
 
-### AVNU: Where Music Meets (2024)
+### [AVNU: Where Music Meets (2024)](https://harrisonleon.github.io/AVNU)
 ![alt text](assets/AVNU_CoverImage.jpg)
 
 Engine/Tools: `Roblox` `Lua` `Python`
