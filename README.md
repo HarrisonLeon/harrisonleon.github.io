@@ -102,7 +102,7 @@ Platforms:
 ### Links
 [Official Trailer](https://www.youtube.com/watch?v=ymZ-3ypGiCI)
 
-[Steam Store Page](https://store.steampowered.com/app/1867580/Final_Space__The_Rescue/) | [Meta Store Page](https://www.meta.com/experiences/final-space-vr-the-rescue/5352920984748732/)
+[Steam Store Page](https://store.steampowered.com/app/1867580/Final_Space__The_Rescue/) \| [Meta Store Page](https://www.meta.com/experiences/final-space-vr-the-rescue/5352920984748732/)
 
 ---
 
@@ -127,7 +127,7 @@ Platforms:
 ### Links
 [Official Trailer](https://www.youtube.com/watch?v=r9K-sPu_wwE)
 
-[Steam Store Page](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing/) | [Meta Store Page](https://www.meta.com/experiences/knockout-league/2078236868960051/)
+[Steam Store Page](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing/) \| [Meta Store Page](https://www.meta.com/experiences/knockout-league/2078236868960051/)
 
 ---
 
