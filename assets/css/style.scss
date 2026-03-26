@@ -3,13 +3,6 @@
 
 @import "{{ site.theme }}";
 
-blockquote {
-  border-left:3px solid #b5e853;
-  margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
-}
-
 a {
   color:#b5e853;
   font-weight:400;
@@ -18,4 +11,18 @@ a {
   &:hover {
     color: #d0e8a2;
   }
+}
+
+blockquote {
+  border-left:3px solid #b5e853;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+hr {
+    height: 0;
+    border: 0;
+    border-bottom: 1px dashed #b5e853;
+    color: #b5e853;
 }
